@@ -1,2 +1,0 @@
-Select Now();
-select USER();
